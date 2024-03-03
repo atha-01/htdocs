@@ -7,7 +7,7 @@ session_start();
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Welcome | PG Life</title>
+    <title>PGLife By Atha.</title>
 
     <?php
     include "includes/head_links.php";
@@ -21,7 +21,7 @@ session_start();
     ?>
 
     <div class="banner-container">
-        <h2 class="white pb-3">Happiness per Square Foot</h2>
+        <h2 class="white pb-3">Happy to Serve You</h2>
 
         <form id="search-form" action="property_list.php" method="GET">
             <div class="input-group city-search">
@@ -37,7 +37,7 @@ session_start();
 
     <div class="page-container">
         <h1 class="city-heading">
-            Major Cities
+            Major Cities:
         </h1>
         <div class="row">
             <div class="city-card-container col-md">

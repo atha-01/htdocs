@@ -186,7 +186,7 @@ $interested_users_properties = mysqli_fetch_all($result_3, MYSQLI_ASSOC);
         if (count($properties) == 0) {
         ?>
             <div class="no-property-container">
-                <p>No PG to list</p>
+                <p>Will Add Some PG's Here Soon , Stay Tuned.</p>
             </div>
         <?php
         }
